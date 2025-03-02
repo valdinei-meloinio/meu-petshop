@@ -37,3 +37,12 @@ button {
 button:hover {
     background-color: #e68900;
 }
+
+body {
+    background-color: #f0f0f0; /* Cor de fundo clara */
+    color: #333333; /* Cor de texto */
+}
+
+h1 {
+    color: #ff6347; /* Cor do título */
+}
