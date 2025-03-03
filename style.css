@@ -46,3 +46,15 @@ body {
 h1 {
     color: #ff6347; /* Cor do título */
 }
+body {
+    background-color: #FFEB3B; /* Cor de fundo amarela */
+    color: #F57F17; /* Cor do texto em amarelo escuro */
+}
+
+h1 {
+    color: #F57F17; /* Cor do título em amarelo escuro */
+}
+
+p {
+    color: #333333; /* Cor do texto do parágrafo */
+}
